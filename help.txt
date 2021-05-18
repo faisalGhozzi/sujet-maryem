@@ -1,0 +1,13 @@
+    • -c :  tracer les tentatives de connexion d'un utilisateur
+
+    • -a :  afficher une elarte en cas de tantatives erronées d'un utilisateur
+    
+    • -l :  afficher dernier access au service mail
+
+    • -b :  afficher les services entrain de demarrer
+
+    • -m : menu textuel  
+
+    • -g : menu graphique 
+
+    • -h:  afficher l'aide 
